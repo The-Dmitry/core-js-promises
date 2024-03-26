@@ -18,7 +18,7 @@
  * 1    => promise that will be fulfilled
  */
 function getPromise(/* number */) {
-  throw new Error('Not implemented');
+  throw new Error('Not implemented123');
 }
 
 /**
